@@ -1,0 +1,14 @@
+README.txt
+setup.py
+MyFirstPackage.egg-info/PKG-INFO
+MyFirstPackage.egg-info/SOURCES.txt
+MyFirstPackage.egg-info/dependency_links.txt
+MyFirstPackage.egg-info/top_level.txt
+mypack/__init__.py
+mypack/__main__.py
+mypack/innerModules.py
+mypack/packmodule.py
+mypack/test_cmdopt.py
+mypack/test_module2.py
+mypack/dir2/__init__.py
+mypack/dir2/test_localplugin.py

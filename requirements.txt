@@ -1,0 +1,8 @@
+pytest===2.8.4
+pytest-repeat
+pexpect
+pytest-ordering
+deepdiff
+#file:/ws/upadhyay/myplugin
+-e git+https://github.com/payalupadhyaya/myplugin.git@master#egg=myplugin
+file:/ws/upadhyay/secondplugin
